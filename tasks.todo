@@ -49,3 +49,5 @@ Use this link for configuration:
             --quiet            build in quiet mode
         -v, --verbose          verbose output
             --verboseLog       verbose logging
+
+remove
