@@ -1,3 +1,4 @@
-/.vscode
-/public
+# Untracked files
 tasks.todo
+.vscode/
+public/
