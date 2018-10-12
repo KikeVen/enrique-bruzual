@@ -2,3 +2,4 @@
 tasks.todo
 .vscode/
 public/
+*.todo
