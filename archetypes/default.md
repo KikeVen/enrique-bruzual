@@ -1,10 +1,12 @@
 +++
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
 author = ""
-categories = []
+categories = [""]
 description = ""
 linktitle = ""
 featured = ""
-featuredpath = ""
+featuredpath = "date"
 featuredalt = ""
 draft = true
 

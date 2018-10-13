@@ -3,3 +3,4 @@ tasks.todo
 .vscode/
 public/
 *.todo
+content/blog/morsepi_speech_recognition.md

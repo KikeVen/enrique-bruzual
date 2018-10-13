@@ -1,14 +1,14 @@
 +++
+title = "{{ replace .Name "-" " " | title }}"
+date = "{{ .Date }}"
 author = ""
 categories = [""]
-date = "{{ .Date }}"
 description = ""
 featured = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "date"
 linktitle = ""
-title = "{{ replace .Name "-" " " | title }}"
-type = "post"
+type = "blog"
 draft = true
 
 +++
