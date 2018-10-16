@@ -1,29 +1,34 @@
 +++
-title = "About Hugo"
+title = 'Enrique Bruzual Software "OG"'
 date = "2014-04-09"
 +++
 
-Hugo is a static site engine written in Go.
+![alt text](../img/main/IMG_20180513_153058.jpg "Juan Griego")
 
+> **Enrique Bruzual is also a father of three, golf enthusiast and landscape photographer.**
 
-It makes use of a variety of open source projects including:
+**A pioneer in Web publishing**, dynamic data integration and backend development. With a deep understanding in the underlying technical principal that drives much of today's technology
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Currently doing independent research in **Natural Language Processing** (NLP) and **Computer Vision** (CV) in an Island by the Caribbean, because is always nice by the sea
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Also offers consulating services in software development, website building, data analysis, product design and development. Please see the services section for more information
 
-## Setup
+> * Developed a custom **Patient Record Management System** (EPRMS), fully HIPAA compliant, linking multiple remote offices, propelling a medical private practice into the digital age ~ _Hughes ENT_
+>
+> * Developed an online professional assessment tool, migrating away from paper based tools ~ _Linkange Inc._
+>
+> * Founding member, Media Director, for a corporate online division ~ _Computerworld_
 
-Some fun facts about [Hugo](http://gohugo.io/):
+This experience is passed on to you in form of expeditious delivery, thoughtful understanding of your needs, project reliability as well as unfazed by hype and passing trends.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+> **Enrique graduated from Northern Vermont University : Lyndon Campus, with a degree in communications**
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+**Technical skills:** This is a partial list
+
+|Categories|technologies| | | | | | |
+|---|---|---|---|---|---|---|---|
+Programming: Python|flask|Django|NLP|Computer Vission|Keras|STT
+distributed computing|Alexa Skills|Wit.ai|AWS|GitHub|Netlify|FB Chatbot
+Web Development|Hugo|Flask|Bootstrap|landing pages|blogs|full sites|CMS|
 
 Thanks for reading!

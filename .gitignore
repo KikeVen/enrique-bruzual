@@ -2,5 +2,7 @@
 tasks.todo
 .vscode/
 public/
+itemized/
+_dont-publish/
 *.todo
 content/blog/morsepi_speech_recognition.md

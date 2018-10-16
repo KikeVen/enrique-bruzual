@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Enrique Bruzual"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false
@@ -127,18 +127,6 @@ canonifyURLs = true
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  identifier = "fa fa-folder-open-o"
-  weight = 4
-
-[[menu.main]]
-  name = "Services"
-  url = "/services/"
-  identifier = "fa fa-pencil-square-o"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"

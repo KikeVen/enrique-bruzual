@@ -1,8 +1,9 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
+title = '{{ replace .Name "-" " " | title }}'
+date = "{{ .Date }}"
 author = ""
 categories = [""]
+tags = [""]
 description = ""
 linktitle = ""
 featured = ""
