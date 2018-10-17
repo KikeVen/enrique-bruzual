@@ -4,7 +4,7 @@ title = "Enrique Bruzual"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
-disqusShortname = "shortname"
+disqusShortname = "enriquebruzual"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -47,9 +47,9 @@ canonifyURLs = true
   socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = true
-  socialShareLinkedin  = true
+  socialShareLinkedin  = false
   socialShareStumbleupon = false
-  socialSharePinterest = true
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
