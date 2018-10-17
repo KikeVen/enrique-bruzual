@@ -4,8 +4,8 @@ date = "2018-10-16T16:12:58-04:00"
 author = ""
 section = "blog"
 categories = ["Bio"]
-tags = ["Introduction"]
-description = ""
+tags = ["Introduction","Python Developer","NLP","Computer Vision"]
+description = "My primary focus is technology but I hope to share some of my other interests, specially photography. The site will continue to grow with multiple sections"
 featured = "mansanillo.png"
 featuredalt = ""
 featuredpath = "date"
@@ -30,7 +30,7 @@ I am a Python programmer, although I have experience in C and Java, I am mainly 
 
 My primary interests are in **Natural Language Processing** (NLP) and **Computer Vision** (CV), these two topics provide a foundation from where to utilize and deploy new supporting technologies. It could be a web app, phone app or automated service leveraging multiple API supporting the primary focus.
 
-Please visit the **About** section to learn more about me
+Please visit the **[About]({{< ref "about/_index.md" >}})** section to learn more about me
 
 Thank you for visiting and I hope this site can be of some help
 
