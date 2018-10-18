@@ -19,7 +19,7 @@ draft = false
 
 It has been a long time coming, I have been working on multiple projects and felt it was time to share some of my work, I decided to start a modest page and see where it goes.
 
-> My primary focus is technology but I hope to share some of my other interests, specially photography. The site will continue to grow with multiple sections
+My primary focus is technology but I hope to share some of my other interests, specially photography. The site will continue to grow with multiple sections
 
 * **Blog:** Post about one page opinion base articles
 * **Projects:** A detail description, including visual media, of current ongoing projects
@@ -30,7 +30,7 @@ I am a Python programmer, although I have experience in C and Java, I am mainly 
 
 My primary interests are in **Natural Language Processing** (NLP) and **Computer Vision** (CV), these two topics provide a foundation from where to utilize and deploy new supporting technologies. It could be a web app, phone app or automated service leveraging multiple API supporting the primary focus.
 
-Please visit the **About** section to learn more about me
+Please visit the [**About**]({{< ref "../about/_index.md" >}}) section to learn more about me
 
 Thank you for visiting and I hope this site can be of some help
 
