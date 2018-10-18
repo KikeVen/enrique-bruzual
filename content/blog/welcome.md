@@ -19,7 +19,7 @@ draft = false
 
 It has been a long time coming, I have been working on multiple projects and felt it was time to share some of my work, I decided to start a modest page and see where it goes.
 
-My primary focus is technology but I hope to share some of my other interests, specially photography. The site will continue to grow with multiple sections
+> My primary focus is technology but I hope to share some of my other interests, specially photography. The site will continue to grow with multiple sections
 
 * **Blog:** Post about one page opinion base articles
 * **Projects:** A detail description, including visual media, of current ongoing projects
