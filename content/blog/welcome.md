@@ -30,7 +30,7 @@ I am a Python programmer, although I have experience in C and Java, I am mainly 
 
 My primary interests are in **Natural Language Processing** (NLP) and **Computer Vision** (CV), these two topics provide a foundation from where to utilize and deploy new supporting technologies. It could be a web app, phone app or automated service leveraging multiple API supporting the primary focus.
 
-Please visit the [**About**]({{< ref "../about/_index.md" >}}) section to learn more about me
+Please visit the [**About**]({{< ref "about/_index.md" >}}) section to learn more about me
 
 Thank you for visiting and I hope this site can be of some help
 
