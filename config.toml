@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Enrique Bruzual"
+title = "Enrique Bruzual's blog and more"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
@@ -31,7 +31,7 @@ canonifyURLs = true
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
-  showSidebarCategories = false
+  showSidebarCategories = true
   # Sets Estimated Reading Time to appear in post headers
   includeReadingTime   = true
   # Sets the Favicon and Version for the site. Default support is for
@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Emerging technologies, thoughts, ideas, efforts and past experiences "
 
-  about     = "I have over 28 years in the technology sector, with vintage wisdom, I am able to focus on what can make an impact in our lives"
+  about     = "With over 25 years in the technology sector,  vintage wisdom, I am able to focus on what can make an impact in our lives"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -102,7 +102,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Enrique Bruzual"
+    alt       = "Enrique's picture"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
