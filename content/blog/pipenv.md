@@ -17,12 +17,12 @@ draft = false
 
 # Getting started with pipenv
 
-Now that you have a number of Python projects you are starting to realize, package conflicts are inevitable. You are left to wonder how to prevent this problem. You may have seen tutorials asking for you to **"pipenv install pipfile"** living you frustrated as you are not familiar with this way of working, regardless of the reason, perhaps it is time to start using **"pipenv"**
+Now that you have a number of Python projects you are starting to realize, package conflicts are inevitable. You are left to wonder how to prevent this problem. You may have seen tutorials asking for you to **"pipenv install pipfile"** leaving you frustrated as you are not familiar with this way of working, regardless of the reason, perhaps it is time to start using **"pipenv"**
 
 - **Environment:** Windows 10
 - **Editor:** Visual Studio Code
 
-> These instructions are compatible with other Operating systems and IDEs
+> These instructions are compatible with other Operating Systems and IDEs
 
 ## Table of contents
 
