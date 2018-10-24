@@ -64,7 +64,7 @@ At the time all versions of Python were globally installed including the package
 
 ### Then: came easy_install
 
-The user would just type easy_install the name of the package, the script would go to PyPi and look for it on the index and get the URL from where to downloaded. it didn't have an uninstall option and the integrity of the package depended on the publishers
+The user would just type easy_install the name of the package, the script would go to PyPi and look for it on the index and get the URL from where to downloaded. it didn't have an uninstall option and the integrity of the link depended on the publishers
 
 ### Later:  pip, virtualenv and requirements.txt
 
@@ -162,7 +162,7 @@ Use **pip** to install **pipenv**. before installing it, you should update your 
 
 I assume you are relatively new to Python, and if you are not familiar with pipenv, I recommend you to familiarize with this process, as you move forward it will become a requirement for developing new projects and sharing them.
 
-This blog is A quick pipenv introduction, getting you up and running as fast as possible with this flexible tool. For a comprehensive list of commands and full documentation please visit:
+This blog is a quick pipenv introduction, getting you up and running as fast as possible with this flexible tool. For a comprehensive list of commands and full documentation please visit:
 
 - Official website: <https://pipenv.readthedocs.io/en/latest/>
 - Github repo: <https://github.com/pypa/pipenv>
@@ -232,7 +232,7 @@ Usage Examples:
 
 ```
 
-|Commands|Description|
+|Commands: |Description: |
 |:--|:--|
 |**check**|Checks for security vulnerabilities and against PEP 508 markers provided in Pipfile.|
 | **clean** | Uninstalls all packages not specified in Pipfile.lock. |
