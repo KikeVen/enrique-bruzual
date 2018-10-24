@@ -183,7 +183,7 @@ pipenv --help
 Usage: pipenv [OPTIONS] COMMAND [ARGS]...
 ```
 
-| Options | Description |
+|Options: |Description: |
 |:--|:--|
 |**--where** | Output project home information.
 | **--venv** | Output virtualenv information.
