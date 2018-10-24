@@ -11,7 +11,7 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 type = "post"
-draft = true
+draft = false
 
 +++
 
