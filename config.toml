@@ -110,6 +110,7 @@ canonifyURLs = true
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
+# https://fontawesome.com/v4.7.0/icons/
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -166,9 +167,9 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = ""
   googleplus       = ""
-  reddit           = "example"
+  reddit           = "reddefcode"
   quora            = ""
   youtube          = "channel/UCUkbK6jMUr05WKzGQ0IzpBg/featured"
   vimeo            = ""
@@ -176,7 +177,7 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "enriquebruzual"
+  instagram        = ""
   tumblr           = ""
   twitter          = "kikebruzual"
   skype            = ""
