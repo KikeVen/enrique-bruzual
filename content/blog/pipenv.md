@@ -234,7 +234,7 @@ Usage Examples:
 
 |Commands: |Description: |
 |:--|:--|
-|**check**|Checks for security vulnerabilities and against PEP 508 markers provided in Pipfile.|
+|**check**| Checks for security vulnerabilities and against PEP 508 markers provided in Pipfile.|
 | **clean** | Uninstalls all packages not specified in Pipfile.lock. |
 |**graph** | Displays currently-installed dependency graph information. |
 | **install** | Installs provided packages and adds them to Pipfile, or if no packages are given, installs all packages from Pipfile. |

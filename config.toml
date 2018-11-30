@@ -129,6 +129,12 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
+  name = "Tutorials"
+  url = "https://defcodeblog.wordpress.com/"
+  identifier = "fa fa-cogs"
+  weight = 5
+
+[[menu.main]]
   name = "Contact"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
